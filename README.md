@@ -70,7 +70,7 @@ Projeyi çalıştırmak için sisteminizde aşağıdakiler kurulu olmalıdır:
 
 ```bash
 git clone <repository-url>
-cd "fatih terim"
+
 ```
 
 ### 2. MongoDB'yi Başlatın
