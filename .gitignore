@@ -1,0 +1,29 @@
+# Monorepo kökü — alt projeler kendi .gitignore dosyalarına da sahip
+
+# Ortam ve sırlar
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Loglar
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE / editör
+.idea/
+*.swp
+*.swo
+
+# Geçici
+.temp
+.tmp
+*.local

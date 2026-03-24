@@ -1,0 +1,29 @@
+🔴 Admin (Yönetici)
+admin - Sistem Yöneticisi
+Tüm modüllere tam erişim
+Tüm işlemleri yapabilir
+📋 Administration (İdari Roller)
+office_manager - Ofis Müdürü
+personal_assistant - Kişisel Asistan
+receptionist - Resepsiyonist
+secretary - Sekreter
+clerk_typist - Katip
+filing_clerk - Arşiv Görevlisi
+💰 Accounts (Muhasebe Rolleri)
+accountant - Muhasebeci
+credit_controller - Kredi Kontrolörü
+accounts_clerk - Muhasebe Memuru
+purchasing_assistant - Satın Alma Asistanı
+🎨 Creative - Management (Kreatif Yönetim)
+director - Direktör
+account_manager - Hesap Yöneticisi
+🎬 Creative - Staff (Kreatif Personel)
+graphic_designer - Grafik Tasarımcı
+photographer - Fotoğrafçı
+copy_writer - Metin Yazarı
+editor - Editör
+audio_technician - Ses Teknisyeni
+resource_librarian - Kaynak Kütüphanecisi
+💻 Computing (Bilgi İşlem Rolleri)
+computer_manager - Bilgisayar Yöneticisi
+network_support - Ağ Destek
